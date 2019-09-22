@@ -40,7 +40,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-CipherSpeak - [@twitter_handle](https://twitter.com/CipherSpeak)
+CipherSpeak - [@CipherSpeak](https://twitter.com/CipherSpeak)
 
 Project Link: [https://github.com/CipherSpeak/CipherClient](https://github.com/CipherSpeak/CipherClient)
 
